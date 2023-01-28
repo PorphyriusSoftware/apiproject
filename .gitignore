@@ -1,0 +1,8 @@
+#Dependency Directories
+node_modules/
+
+#Parcel Cache
+.parcel-cache/
+
+#Distribution Files
+dist/
